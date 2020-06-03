@@ -1,0 +1,7 @@
+id=miui-12-soundpack
+name=MIUI 12 Sound Pack
+version=1.0
+versionCode=1
+author=NaytSeyd, Imam
+description=The purpose of this module is to install MIUI 12 system sounds on your device.
+minMagisk=17000
